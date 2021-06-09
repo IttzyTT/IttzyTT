@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Igor Ljevak 👋
 
 <!--
 **IttzyTT/IttzyTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
