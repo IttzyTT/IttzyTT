@@ -1,8 +1,7 @@
-<h1> Hi there👋 I'm Igor Ljevak 👨‍💻</h1>
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
 </p>
 
 <p>
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ittzyTT" />
 </p>
 
 <p align="center">
