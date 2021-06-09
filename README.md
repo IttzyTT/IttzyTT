@@ -1,4 +1,10 @@
-### Hey, I'm Igor Ljevak 👋
+### Hi there👋 I'm Igor Ljevak 👨‍💻
+A mobile and .net developer from Curitiba, Brazil.
+
+Front-End developer at Jensen School
+
+
+<img src="{BadgeURLHere}" />
 
 <!--
 **IttzyTT/IttzyTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
