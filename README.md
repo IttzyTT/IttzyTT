@@ -1,11 +1,6 @@
 <h1> Hi there👋 I'm Igor Ljevak 👨‍💻</h1>
-A mobile and .net developer from Curitiba, Brazil.
 
 Front-End developer at Jensen School
-
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" />
 
 <a href="https://twitter.com/adarshreddyash">
   <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,8 +13,6 @@ Front-End developer at Jensen School
 </a>
 <br />
 <br />
-
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
   
 **Talking about Personal Stuffs:**
 
@@ -35,7 +28,7 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
