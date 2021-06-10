@@ -69,8 +69,8 @@
 
 <br>
 
-###📑 &nbsp; Download Resume
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf
+### 📑 &nbsp; Download Resume
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download here</a>
 
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
