@@ -3,7 +3,13 @@
 </p>
 
 <p>
-  <h4 align="center"><b>I live in Stockholm Sweden</b></h4>
+  <h4 align="center"><b>
+    // life motto
+    if (sad() === true) {
+    sad().stop();
+    beAwesome();
+    }
+    </b></h4>
 </p>
 
 <p align="center">
