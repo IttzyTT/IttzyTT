@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
 
 
-<p align="center">
+<div align="center">
   <p align="left"><b>
     // life motto
     <br>
@@ -14,7 +14,7 @@
     <br>
     }
     </b></p>
-</p>
+</div>
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ittzyTT" />
