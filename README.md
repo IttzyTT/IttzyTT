@@ -21,7 +21,7 @@
 <p align="center">
   <br>
     📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf" alt?"cv">Download</a>
-    📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf" alt="Personal letter">Download</a>
+    &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf" alt="Personal letter">Download</a>
   </p>
 
 <br>
