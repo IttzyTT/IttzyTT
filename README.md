@@ -25,8 +25,6 @@
 
 <br>
 <br>
-<br>
-
 
 <img align="right" height="260px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -40,7 +38,6 @@
 - I try to: Go beyond and push the bounds 🧗  
 
 
-<br>
 <br>
 <br>
 
@@ -59,10 +56,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 ### :zap: Github Stats
 
@@ -78,7 +74,6 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<br>
 <br>
 <br>
 
