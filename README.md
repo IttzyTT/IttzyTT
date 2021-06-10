@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <p align="left"><b>
+  <p ><b>
     // life motto
     <br>
     if (sad() === true) {
