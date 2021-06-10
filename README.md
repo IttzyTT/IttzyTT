@@ -85,7 +85,7 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
-<img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/d0feb9b8b852ef9d58683a9f0e14fcca1b8df37c/wave%20.svg" alt="wave design" />
+<img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/817c29674cfedac1dbe717a0922f45463e817377/wave.svg" alt="wave design" />
 
 
 
