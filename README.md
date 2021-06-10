@@ -17,13 +17,14 @@
 <a href="https://www.instagram.com/ilj_photo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/igorljevak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:igorljevak@gmail.com?subject=Hey%20Igor"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download</a>
+<br>
+📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf">Download</a>
 </p>
 
 <br>
 <br>
-📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download</a>
-<br>
-📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf">Download</a>
+
 
 <br>
 
