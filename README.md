@@ -74,8 +74,6 @@
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 632 thousand Lines of Code ✍️**
-
-
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 
