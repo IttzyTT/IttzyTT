@@ -1,5 +1,4 @@
-
-<p>
+<img src=""https://raw.githubusercontent.com/IttzyTT/IttzyTT/349379a395e29c5ab57d1ef59f6ecbe479ed928a/wave%20(1).svg alt="wave design" />
   <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
 </p>
 
@@ -86,7 +85,7 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
-<img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/024df86056a6417491131fef70fc2af0879872a1/wave.svg" />
+<img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/024df86056a6417491131fef70fc2af0879872a1/wave.svg" alt="wave design" />
 
 
 
