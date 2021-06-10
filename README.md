@@ -3,13 +3,17 @@
 </p>
 
 <p>
-  <h4 align="center"><b>
+  <p align="center"><b>
     // life motto
+    <br>
     if (sad() === true) {
+    <br>
     sad().stop();
+    <br>
     beAwesome();
+    <br>
     }
-    </b></h4>
+    </b></p>
 </p>
 
 <p align="center">
