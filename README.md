@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
 </p>
 
-<p>
+<p align="center">
   <p align="left"><b>
     // life motto
     <br>
