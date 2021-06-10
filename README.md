@@ -3,17 +3,7 @@
 
 
 <div align="center">
-  <p font-size="10px"><b>
-    // life motto
-    <br>
-    if (sad() === true) {
-    <br>
-    sad().stop();
-    <br>
-    beAwesome();
-    <br>
-    }
-    </b></p>
+  <p><b>A coder will be the next rock star.</b></p>
 </div>
 
 <p align="center">
