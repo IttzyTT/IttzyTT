@@ -25,7 +25,7 @@
 
 ### I am a front-end developer student at Jensen School
 - 👨🏽‍💻  I’m currently working on my Portfolio Website :grin:
-- 📱  I’m currently learning PWA.
+- 📱  I’m currently learning PWA
 - 👩🏽‍🤝‍👨🏾 I’m looking to collaborate with other Developers :wink:
 - 🥅  2021 Goals: Master a good level of JS, react
 - 💬  Ask me about anything, I am happy to help :smile:
