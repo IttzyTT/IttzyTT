@@ -70,6 +70,7 @@
 <br>
 <br>
 ### 📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download resume</a>
+<br>
 ### 📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf">Download personal letter</a>
 
 <br>
