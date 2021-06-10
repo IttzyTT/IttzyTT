@@ -69,7 +69,8 @@
 
 <br>
 
-<!--###📑 &nbsp; Download Resume-->
+###📑 &nbsp; Download Resume
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf
 
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
