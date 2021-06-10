@@ -20,6 +20,12 @@
 </p>
 
 <br>
+<br>
+📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download</a>
+<br>
+📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf">Download</a>
+
+<br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -68,12 +74,7 @@
 
 
 <br>
-<br>
-📑 &nbsp; Resume <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_CV.pdf">Download</a>
-<br>
-📝 &nbsp; Personal letter <a href="https://github.com/IttzyTT/IttzyTT/raw/main/Igor_Ljevak_PB.pdf">Download</a>
 
-<br>
 <br>
 
 
