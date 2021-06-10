@@ -65,12 +65,20 @@
 <br>
 <br>
 
-
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 ### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ittzytt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Igor's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittzytt&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Igor's Top Languages">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ittzytt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittzytt&layout=compact&theme=material-palenight" />
+</a>
 
 
 
