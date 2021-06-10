@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <p><b>"A coder will be the next rock star"</b></p>
+  <p><b>"a coder will be the next rock star"</b></p>
 </div>
 
 <p align="center">
