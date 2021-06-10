@@ -86,6 +86,8 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/024df86056a6417491131fef70fc2af0879872a1/wave.svg" />
+
 
 
 [instagram]: https://www.instagram.com/ilj_photo/
