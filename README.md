@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/IttzyTT/IttzyTT/349379a395e29c5ab57d1ef59f6ecbe479ed928a/wave%20(1).svg" alt="wave design" />
   <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
-</p>
+
 
 <p align="center">
   <p align="left"><b>
