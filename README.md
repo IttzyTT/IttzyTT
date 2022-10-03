@@ -31,13 +31,7 @@
 <img align="right" height="260px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a front-end developer student at Jensen School
-- I’m currently working on my Portfolio Website 👨🏽‍💻
-- I’m currently learning PWA 📱
-- I’m looking to collaborate with other Developers 👩🏽‍🤝‍👨🏾 
-- 2021 Goals: Master a good level of JS, react 🥅 
-- Ask me about anything, I am happy to help 💬 
-- How to reach me: [Let's get in touch!][linkedin] 
-- I try to: Go beyond and push the bounds 🧗  
+- I’m currently working on Staylive 👨🏽‍💻
 
 
 <br>
