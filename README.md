@@ -2,10 +2,6 @@
   <h1 align="center"><b>Hello there, I'm Igor Ljevak 👋</b></h1>
 
 
-<div align="center">
-  <p><b>"a coder will be the next rock star"</b></p>
-</div>
-
 <p align="center">
 <br>
 <a href="https://www.facebook.com/ljevak/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
