@@ -20,7 +20,7 @@
 <img align="right" height="260px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a front-end developer from Sweden, Stockholm
-- I’m currently working at Staylive 👨🏽‍💻
+- I’m currently working at Two Circles 👨🏽‍💻
 
 
 <br>
